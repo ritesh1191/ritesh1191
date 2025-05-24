@@ -21,7 +21,7 @@ I am a Code passionate , Always exited to explore various tech fields and keen t
 
 - ✍️ I also enjoy writing clean code and keeping things organized.
 
-- 📫 Want to contact me? DM me on my profile: <a href="https://www.linkedin.com/in/ritesh1191/">Linkedin</a>,  <a href="https://twitter.com/RitwikTat">Twitter</a> 
+- 📫 Want to contact me? DM me on my profile: <a href="https://www.linkedin.com/in/ritesh1191/">Linkedin</a>
 
 - 🧑 More of me at my **[Portfolio Website](https://ritesh1191.github.io/Portfolio/)**
 
