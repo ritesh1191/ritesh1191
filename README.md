@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Ritesh!</h1>
-<h3 align="center">I'm a Passionate MERN Stack Developer from India.</h3>
+<h3 align="center">I'm a Passionate Fullstack Stack Developer from India.</h3>
 
 <h2> About Me </h2> 
 I am a Code passionate , Always exited to explore various tech fields and keen to learn something new day by day. 
